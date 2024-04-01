@@ -1,0 +1,12 @@
+body { background-color: #000000; color: #ffffff; font-family: Arial, Verdana, sans-serif; }
+
+nav a {background-color: #333333; color: #ffffff; text-indent: 1em;}
+
+footer { color: #333333;
+    font-size: .75em;
+    font-style: italic; 
+    border-top: thin solid #aeaed4;
+    padding-top: 10px;
+    color: #333333;
+    text-indent: 1em;
+    }

@@ -1,0 +1,68 @@
+body { background-image: url(background.gif); font-style: Verdana, Arial, sans-serif;}
+
+header {background-color: #D2B48C; 
+        height: 150px; 
+        background-image: url('javajamlogo.jpg');
+        background-repeat: no-repeat;
+    }
+
+h1 { padding-top: 45px; 
+    padding-left: 220px; 
+    font-size: 2em; 
+    font-family: 'Reey-Regular', Georgia, serif;
+} 
+
+@font-face {font-family: 'Reey-Regular';
+    src: url('Reey-Regular.otf') format('opentype'),
+    url('Reey-Regular.ttf') format('truetype'),
+    url('Reey-Regular.woff') format('woff');
+}
+
+nav {text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-top: 10px;
+}
+
+footer {background-color: #D2B48C; 
+    font-size: .60em; 
+    font-style: italic; 
+    text-align: center;
+    padding-bottom: 10px;
+    border-top: 2px solid #221811;
+}
+
+
+#wrapper { background-color: #FEF6C2;
+    min-width: 900px;
+    max-width: 1280px;
+    box-shadow: 3px 3px 3px 1px #312b09;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+
+#details {
+    padding-left: 20%; /* Add 20% left padding */
+    padding-right: 20%; /* Add 20% right padding */
+}
+
+h4 {
+    background-color: #D2B48C; /* Set background color to #D2B48C */
+    font-size: 1.2em; /* Set font size to 1.2em */
+    padding-left: 0.5em; /* Set left padding to 0.5em */
+    padding-bottom: 0.25em; /* Set bottom padding to 0.25em */
+}
+
+main {
+    padding-left: 2em; /* Set left padding to 2em */
+    padding-right: 2em; /* Set right padding to 2em */
+    padding-bottom: 2em; /* Set bottom padding to 2em */
+    display: block; /* Ensure block-level display */
+}
+
+img {
+    padding-left: 10px; /* Add 10px left padding */
+    padding-right: 10px; /* Add 10px right padding */
+}
