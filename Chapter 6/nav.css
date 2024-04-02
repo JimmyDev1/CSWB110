@@ -20,9 +20,9 @@ h1 {
 }
 
 @font-face {font-family: 'Milker';
-    src: url('../../Milker.otf') format('opentype'),
-    url('../../Milker.ttf') format('truetype'),
-    url('../../Milker.woff') format('woff');
+    src: url('../Milker.otf') format('opentype'),
+    url('../Milker.ttf') format('truetype'),
+    url('../Milker.woff') format('woff');
 }
 
 nav{
