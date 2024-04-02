@@ -1,10 +1,10 @@
 body {background-color: #333333;
-    background-image: url("../../Fence4.png"), url("../../stars.jpg");
+    background-image: url("../Fence4.png"), url("../stars.jpg");
     background-size: cover; /* Cover the entire background */
 }
 
 header {
-    background-image: url('../../favicon.gif');
+    background-image: url('../favicon.gif');
     background-repeat: no-repeat;
     background-position: 1em;
     background-color: #1a1a1a;
