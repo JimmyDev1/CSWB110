@@ -1,8 +1,8 @@
-body{ background-image: url("../../stars.jpg");
+body{ background-image: url("../stars.jpg");
 }
 
 header {
-    background-image: url('../../favicon.gif');
+    background-image: url('../favicon.gif');
     background-repeat: no-repeat;
     background-position: 1em;
     background-color: #1a1a1a;
